@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Antibes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-26T04:13:56.986Z",
+      "notes": "Nice Place\n",
+      "position": {
+        "lat": "43.61221676817573",
+        "lng": "7.075195312500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Herrera del Duque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-14T06:35:28.000Z",
+      "notes": "Nice Place to visit 😌",
+      "position": {
+        "lat": "39.26628442213066",
+        "lng": "-4.94384765625"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Pune",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-26T12:02:50.621Z",
+      "notes": "Puneri misal 🍞",
+      "position": {
+        "lat": "18.5209657576135",
+        "lng": "73.85464668273927"
+      },
+      "id": 98443203
+    }
+  ]
+}
